@@ -1,0 +1,5 @@
+#!/bin/bash
+echo "input your commit please"
+read var
+git add *
+git commit -m "${var}"
