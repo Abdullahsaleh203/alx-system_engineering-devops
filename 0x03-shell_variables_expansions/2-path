@@ -1,3 +1,2 @@
 #!/bin/bash
-export PATH="$PATH:/actoin"
-
+export PATH=$PATH:/actoin
