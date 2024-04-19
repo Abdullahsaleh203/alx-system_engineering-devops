@@ -10,7 +10,7 @@ BITS=4096
 PASSPHRASE="betty"
 
 # Generate the RSA key pair
-echo $PASSPHRASE | ssh-keygen -t rsa -b $BITS -f $PRIVATE_KEY_NAME -q -N ""
+ssh-keygen -t rsa -b $BITS -f $PRIVATE_KEY_NAME -q -N $PASSPHRASE
 
 # Output success message
 echo "RSA key pair generated successfully."
