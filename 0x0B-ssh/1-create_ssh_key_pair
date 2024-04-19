@@ -1,10 +1,3 @@
 #!/usr/bin/env bash
-
-# This script generates an RSA key pair for SSH authentication.
-# It uses the ssh-keygen command to create a 4096-bit key pair with a passphrase of "betty".
-# The generated key pair is saved in the "school" file.
-
-ssh-keygen -b 4096 -N betty -f school
-
-# Output success message
-echo "RSA key pair generated successfully."
+# Create an RSA key pair
+ssh-keygen -b 4096 -f school -N betty
