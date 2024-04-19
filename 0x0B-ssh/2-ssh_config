@@ -1,3 +1,7 @@
-Host *
-passwordAuthentification no
-IdentityFile ~/.ssh/school
+# SSH Config File
+#
+Host web-01
+	Hostname 100.25.134.225
+	User ubuntu
+	PasswordAuthentication no
+	IdentityFile ~/.ssh/school
