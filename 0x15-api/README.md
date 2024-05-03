@@ -69,7 +69,7 @@ Tasks
 
 mandatory
 
-Score: 0.00% (Checks completed: 0.00%)
+ 
 
 Write a Python script that, using this [REST API](https://alx-intranet.hbtn.io/rltoken/7cr7aLYdaWAZWBKrBKS12A "REST API"), for a given employee ID, returns information about his/her TODO list progress.
 
@@ -130,7 +130,7 @@ sylvain@ubuntu$
 
 mandatory
 
-Score: 0.00% (Checks completed: 0.00%)
+ 
 
 Using what you did in the task #0, extend your Python script to export data in the CSV format.
 
@@ -181,7 +181,7 @@ sylvain@ubuntu$
 
 mandatory
 
-Score: 0.00% (Checks completed: 0.00%)
+ 
 
 Using what you did in the task #0, extend your Python script to export data in the JSON format.
 
@@ -212,7 +212,7 @@ sylvain@ubuntu$ cat 2.json
 
 mandatory
 
-Score: 0.00% (Checks completed: 0.00%)
+ 
 
 Using what you did in the task #0, extend your Python script to export data in the JSON format.
 
